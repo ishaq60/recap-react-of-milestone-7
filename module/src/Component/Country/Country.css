@@ -1,0 +1,15 @@
+.country{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+
+}
+.single{
+    border: 2px solid gray;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+
+}
+.visited{
+    background-color: aquamarine;
+}

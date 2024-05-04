@@ -1,0 +1,38 @@
+[
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 10000,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel"
+    },
+    {
+      "brand": "Omega",
+      "model": "Speedmaster Professional Moonwatch",
+      "price": 5000,
+      "movement": "Manual-winding",
+      "case_material": "Stainless Steel"
+    },
+    {
+      "brand": "TAG Heuer",
+      "model": "Carrera",
+      "price": 3000,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel"
+    },
+    {
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": 30000,
+      "movement": "Automatic",
+      "case_material": "Rose Gold"
+    },
+    {
+      "brand": "Seiko",
+      "model": "SKX007",
+      "price": 200,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel"
+    }
+  ]
+  
